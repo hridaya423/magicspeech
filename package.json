@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@google-cloud/translate": "^8.5.0",
+    "@google-cloud/translate": "^9.3.0",
     "@radix-ui/react-select": "^2.2.6",
     "@radix-ui/react-slider": "^1.2.1",
     "@radix-ui/react-slot": "^1.1.0",
