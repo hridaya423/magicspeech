@@ -20,7 +20,7 @@
     "next": "16.0.7",
     "openai": "^6.10.0",
     "react": "^19.0.0",
-    "react-dom": "^19.2.1",
+    "react-dom": "^19.2.3",
     "react-hot-toast": "^2.6.0",
     "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7"
